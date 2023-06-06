@@ -1,6 +1,9 @@
 # Employee-Grievances-Management-Web-App
 Web-based Grievances Management System using HTML, CSS, JavaScript, JSP, and Oracle database
 
+#Server
+Apache Tomcat 9.0
+
 Implemented an Admin panel that provides full control and administrative privileges over the system, allowing the admin to manage user accounts, configure system settings, and generate reports.
 Designed an HR registration panel that enables HR personnel to handle and modify grievances, assign them to appropriate departments, and track their resolution progress.
 Created an employee registration panel where employees can submit their grievances, view the status of their complaints,
